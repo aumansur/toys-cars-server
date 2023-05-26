@@ -1,0 +1,118 @@
+[
+    {
+        "regular_car":[
+            {
+                "name": "Family Sedan",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yQgIwpz-Xlq54ctMwWvp4_a2KWXcwz0BBQ&usqp=CAU",
+                "seller_name": "Toy Auto Mart",
+                "seller_email": "sales@toymart.com",
+                "sub_category": "Compact Cars",
+                "price": 24.99,
+                "rating": 4.2,
+                "quantity_available": 10,
+                "description": "Experience the joy of driving with the Family Sedan toy car. It's perfect for pretend family road trips and everyday adventures."
+            },
+            {
+                "name": "City Hatchback",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYct5gTV4rE1yH0xFtVzt5nWZ7hevJ7Sw6A&usqp=CAU",
+                "seller_name": "Miniature Motors",
+                "seller_email": "info@miniaturemotors.com",
+                "sub_category": "Economy Cars",
+                "price": 19.99,
+                "rating": 3.9,
+                "quantity_available": 8,
+                "description": "Zip through the city streets with the City Hatchback toy car. Its compact size and vibrant colors make it ideal for urban adventures."
+            },
+            {
+                "name": "Convertible Cruiser",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYd3YXggDjdNp6L_Oz0CwOK7FrcmbdCGvOmw&usqp=CAU",
+                "seller_name": "Cruise Toys Co.",
+                "seller_email": "sales@cruisetoys.com",
+                "sub_category": "Convertible Cars",
+                "price": 39.99,
+                "rating": 4.5,
+                "quantity_available": 5,
+                "description": "Feel the breeze with the Convertible Cruiser toy car. Its top-down design and sleek style make it perfect for sunny day drives."
+            }
+        ]
+    },
+    {
+        "regular_car":[
+            {
+                "name": "Mini Police Car",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqP0Eu8iS8x46kXAHJPuYPQdx1yKsMxCsoOg&usqp=CAU",
+                "seller_name": "John's Toys",
+                "seller_email": "john@example.com",
+                "sub_category": "Toys",
+                "price": 19.99,
+                "rating": 4.5,
+                "quantity_available": 10,
+                "description": "A miniature police car toy with lights and sounds. Perfect for imaginative play."
+            },
+            {
+                "name": "Mini Police Motorcycle",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFRC4HJIawzrOgBtmh8BAMMqHjEq0F_TnYQ&usqp=CAU",
+                "seller_name": "Toyland",
+                "seller_email": "sales@toyland.com",
+                "sub_category": "Toys",
+                "price": 14.99,
+                "rating": 4.2,
+                "quantity_available": 8,
+                "description": "A small police motorcycle toy with realistic details and movable parts."
+            },
+            {
+                "name": "Mini Police Helicopter",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqzYU_sbc4NYVu57McvJPfNr5nKq0wSAZ_Jw&usqp=CAU",
+                "seller_name": "Toys R Us",
+                "seller_email": "info@toysrus.com",
+                "sub_category": "Toys",
+                "price": 24.99,
+                "rating": 4.8,
+                "quantity_available": 5,
+                "description": "A small police helicopter toy with spinning rotors and a removable pilot figure."
+            }
+        ]
+    },
+    {
+        "regular_car":[
+
+
+            {
+                "name": "Ferrari 488 GTB",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJbbC0YjHGPza0lINV6PuGOlhmttUEMxxAA&usqp=CAU",
+                "seller_name": "Luxury Cars Inc.",
+                "seller_email": "sales@luxurycars.com",
+                "sub_category": "Sports Cars",
+                "price": 250000,
+                "rating": 4.7,
+                "quantity_available": 3,
+                "description": "The Ferrari 488 GTB is a powerful and stylish sports car with a top speed of 205 mph."
+                
+              },
+              {
+                "name": "Porsche 911 GT3",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyOG3I-msqk8x3lsX7vGGsBRMUzbqPPPJiQ&usqp=CAU",
+                "seller_name": "Sports Cars Direct",
+                "seller_email": "info@sportscarsdirect.com",
+                "sub_category": "Sports Cars",
+                "price": 180000,
+                "rating": 4.5,
+                "quantity_available": 5,
+                "description": "The Porsche 911 GT3 is a high-performance sports car known for its precision and agility."
+               
+              },
+              {
+                "name": "Lamborghini Huracan",
+                "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK__fws0flEml-pWMpo3RovwIys2k2FOlZw&usqp=CAU",
+                "seller_name": "Exotic Auto Sales",
+                "seller_email": "sales@exoticautos.com",
+                "sub_category": "Sports Cars",
+                "price": 300000,
+                "rating": 4.9,
+                "quantity_available": 2,
+                "description": "The Lamborghini Huracan is a stunning and powerful sports car with a top speed of 201 mph."
+              }
+        ],
+        "name":"City Hatchback"
+    }
+]
